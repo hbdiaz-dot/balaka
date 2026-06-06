@@ -5,16 +5,12 @@ Advanced accounting application for Indonesian small businesses. Spring Boot 4.0
 ## Quick Start
 
 ```bash
-# Build
 ./mvnw clean package
-
-# Run
 java -jar target/grandflow-*.jar
-
-# Access
-http://localhost:8080
 ```
+
+Access at: http://localhost:8080
 
 ## License
 
-Apache License 2.0
+[Apache License 2.0](LICENSE)
